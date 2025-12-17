@@ -5,4 +5,4 @@ We extraxt features from the photograph trough image analysis and we build a con
 
 Code and a photograph are provided. Photograph is note related to real dataset is just an example of mechanical filters.
 
-![Filters](Filters.webp/FlowDiagram1.png)
+![Filters](https://github.com/danieleandolfi3-ai/Quality-data-analysis_AM-mechanical-filters_Control-charts/blob/main/Filters.webp)
